@@ -1,0 +1,5 @@
+
+https://github.com/spmallick/learnopencv/tree/master/Optical-Flow-Estimation-using-Deep-Learning-RAFT
+
+
+python inference.py --model=./models/raft-sintel.pth --video ./videos/crowd.mp4
